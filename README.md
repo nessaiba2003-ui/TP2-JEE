@@ -20,3 +20,5 @@ Testabilité qui facile de mocker les dépendances
 Maintenabilité en configuration centralisée
 Flexibilité avec changement d'implémentation sans modifier le code
 Réutilisabilité afin que les composants indépendants et réutilisables
+<img width="1532" height="381" alt="Screenshot 2026-03-09 122633" src="https://github.com/user-attachments/assets/350ed15e-dbd0-4747-9b69-69dbb02ed770" />
+<img width="1781" height="663" alt="Screenshot 2026-03-09 122745" src="https://github.com/user-attachments/assets/7c8b3600-5632-4254-8117-60c25474c7fd" />
